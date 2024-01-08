@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "subtle-champion-408202",
+  "private_key_id": "3b9dde3ebd8394b736b20f1b2b53e2e5db595989",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB+FDidqe+mnJQ\nrtjjv10kod33mp+4CstzyczwtWQBLh7Sf/u2y6p+asm426bv3Vbas2pICwOu/2Ym\nGJTKiZsmEpGWA2dNQm/2DLYCKXjJEz1LHMp+A/64rgXsS934grtENf2qgmNs+JvB\nMjhOkkZEincRANriGAYQgSD0q/JfEyvH6oQX0Pf6U6BrJjVDlIdYgRenq5GdoFil\nMm1Tsqeyttsi9ivigJjP7ha5elgQjhqS1sweFE0diPy8oIXh/QRjap5pJQvNJmS2\nLKe5KHZdOdir5uiqaMo2ScNDfb6/+gXDXBezddTawXarK4Ts5I6QVxb1gUKUcoJe\nkCmwVjpzAgMBAAECggEAUUtMQw2t0iGS5aPSPOl4FSFOETcZ152WlWmvXfb3+dKl\nkl2XVo5XX3JMJxDQD1m5zCFD2vvayF48Jp1IxvYTM0q2/6NfiS7eE8ZSBefxunw4\nxSFE8Lml6SruSpGlb0EDUVw7e1n4Z7RuOvNcS/ncP1+09UhhdD7TU9l6wXDLPPLm\nFTzEIsQ+uwBdaWa/ytf4+iGcOvGEq9JasvPrdJRvMevENNkjMV7HhTKeh1ud9/0C\nSTbuwQNmeJUa4kiaxoQhqQhjQcQsqArjnh5TK8Gsm4yXZwsvIyy/uviqH36VVFPX\nZ0l0c4s3S4YH74UotVPCinKit1EXvn4fKWkX94/34QKBgQDmGHzyLbLszrN96l60\n3vry7rPLmLb7ivrRU0ihBaKpBxJQfzbUgkwp5LmU6YTnd4GdKl0Pxo/SoVYcY0Fd\nhqTCB68Ye28qJ9kxAKvTdqhbPUmDM1WtgIYWIsmHvQgOTMyqnTe8trGzCFodMvGu\nfQfHVgegrYxqf300Zx7EzaE5AwKBgQDXzqliT5fMkFbrj+xaIxSgr+dQ4ZPMez9w\nUvEqpkB/5vBODVfK7IDQXy0NrC+pGd1RQYFjUKpoT47+Xbg/5hGQMyIIvxrmY0DF\nm8eh8Ff4LlPUCM1rdTtSTL4LMFVzuql+zD/QvV9rMYrDI0VPC84NrYRE6XqDz9JY\n8N6pVj3l0QKBgF4lQOJaXm5UOM7ZWXzKC4Xgs0Inrx8HA48oc3wm8SIV2aGEG6wh\n0AYIJwLN9Wo71JW44rD0vp4hEzm0Rud8kucs+7CZuKdX/J73NlbkowgJ8I01MOY3\nwyVFgI4Ag05OkCNzBn45hkXJsg1mbcrGL6uZAK/2spBUr6cEVmuR81h/AoGAdWzR\n5diBNKHlac+qP3GPK9ALAYt8rGrznd7Dsv07Y1z5rL694oDFppvjG+lxFYYpUqle\nCfg+gPupRucf9kTtkZUBE9lIfcvL1rpo6cipVTWAD4OqoqnrWWDAl735ATu0NnZU\n0vP4E4+lfYCXmedGe1LLAeQ48bgHMLX/sgxnKcECgYEAi50uYAWRegWn75jBCjdC\nFANmQh5IJufOO3enL6xou0yL9uaHBX5nG9OZBQsfHzDItdry3BkEpv5ClykoXxDx\ncsI6hs6eMiwr7SA5+FN3iG5uTGbZkXRbIDK0V6oJQ4wVl/0ekjmpMUhFlqYD9Em8\njZz1aXEkV565VRnN5+bQ55M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uploadfiles@subtle-champion-408202.iam.gserviceaccount.com",
+  "client_id": "116164964598048389191",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uploadfiles%40subtle-champion-408202.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
