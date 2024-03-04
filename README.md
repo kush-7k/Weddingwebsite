@@ -45,3 +45,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or support, please contact us at kushp723@gmail.com.
+
+This is what the home page looks like
+
+![meghalxkhyati](https://github.com/kush-7k/Weddingwebsite/assets/113313092/76fe1c5e-42bc-4f94-8701-7cdaaa0f166f)
+
